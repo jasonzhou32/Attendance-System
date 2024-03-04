@@ -66,7 +66,7 @@ session_start();
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="login-form">
-                                <h5 align="center">STUDENT ATTENDANCE SYSTEM</h5>
+                                <h5 align="center">STUDENT ATTENDANCE SYSTEM TEST</h5>
                                 <div class="text-center">
                                     <img src="img/logo/attnlg.jpg" style="width:100px;height:100px">
                                     <br><br>
